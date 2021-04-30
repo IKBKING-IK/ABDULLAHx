@@ -34,7 +34,7 @@ def cetak(b):
 
     x += '\b[0m'
     x = x.replace('!0', '\b[0m')
-    sys.stdout.write(x + '\)
+    sys.stdout.write(x+'\)
 
 
 def jalan(z):
